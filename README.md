@@ -1,8 +1,4 @@
-Understood. You want a README that mirrors the professionalism, structure, and technical depth of a top-tier open-source project. The provided example is an excellent benchmark for clarity and completeness.
 
-I will now completely restructure and rewrite your `README.md` file to emulate that high standard. This version is designed to impress by not only showcasing the code but also the thought process, architecture, and professional practices behind it.
-
-Here is the newly crafted `README.md`. I will now write this to your file.
 
 ---
 
@@ -234,7 +230,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Muhammad Qasim - [@YourTwitterHandle](https://twitter.com/YourTwitterHandle) - mqasim111786111@gmail.com
+Muhammad Qasim- mqasim111786111@gmail.com
 
 Project Link: [https://github.com/MuhammadQasim111/FASTAPI](https://github.com/MuhammadQasim111/FASTAPI)
 
